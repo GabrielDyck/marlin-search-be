@@ -1,4 +1,13 @@
 # pet-planet-be
 # pet-planet-fe
 
-BACKLOG: https://tree.taiga.io/project/gabrieldyck-pet-planet/backlog
+Proyecto web didactico usando:
+Java
+Spring 
+Hibernate
+Sql
+Mongo
+
+
+
+BACKLOG: https://tree.taiga.io/projec
